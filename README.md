@@ -16,6 +16,7 @@
 - 🤖 **Bot Developer** - Building intelligent automation systems
 - 🌐 **Open Source Contributor** - Sharing knowledge with the community
 - 📧 **Contact**: localacct@ironanarchy.lol
+- 💬 **Discord Server**: https://discord.gg/KteVHS4nne
 
 ## 🏗️ Current Infrastructure
 
@@ -154,6 +155,7 @@ npm install -g iron-anarchy-minecraft-bot
 [![Email](https://img.shields.io/badge/Email-localacct@ironanarchy.lol-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:localacct@ironanarchy.lol)
 [![GitHub](https://img.shields.io/badge/GitHub-Localacct21-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Localacct21)
 [![NPM](https://img.shields.io/badge/NPM-localacct-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~localacct)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KteVHS4nne)
 
 </div>
 
