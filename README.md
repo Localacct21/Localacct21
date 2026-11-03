@@ -50,5 +50,9 @@ The rate, port and output file are configurable. **[View the scanner →](https:
 Open an issue on any of the repos above.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Localacct21/Localacct21/output/snake.svg" alt="Snake eating my GitHub contribution graph" width="100%">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Localacct21&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
