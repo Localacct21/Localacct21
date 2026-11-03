@@ -29,7 +29,7 @@ With **25 years in the IT industry**, I've evolved from traditional enterprise s
 **The Ultimate Minecraft Automation Suite - Born from Real Server Management Experience**
 
 - **🤖 Features**: Advanced PVP, Discord integration, recording system, web dashboard
-- **📦 NPM Package**: `iron-anarchy-minecraft-bot`
+- **📦 NPM Package**: `@localacct/iron-anarchy-minecraft-bot`
 - **🧪 Testing**: 16 comprehensive test suites
 - **📊 Status**: Production ready, actively maintained
 - **🌟 Impact**: Enhancing gameplay for the global Minecraft community
@@ -39,7 +39,7 @@ With **25 years in the IT industry**, I've evolved from traditional enterprise s
 **Tech Stack**: Node.js, Mineflayer, Discord.js, FFmpeg
 
 ```bash
-npm install -g iron-anarchy-minecraft-bot
+npm install -g @localacct/iron-anarchy-minecraft-bot
 ```
 
 ---
