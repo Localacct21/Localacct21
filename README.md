@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Local Acct: 25+ years in IT, building self-hosted tools and Minecraft bots" width="100%">
+  <img src="assets/banner.svg" alt="Local Acct: 25+ years in IT, now doing private IT work in southwest Virginia" width="100%">
 </p>
 
-Hi, I'm Local Acct, based in North Carolina. I've worked in IT for over 25 years, across Windows and Linux servers, networking, and Minecraft and CS2 game servers. Most of what I build here comes out of looking after my own machines.
+Hi, I'm Local Acct. I've worked in IT for over 25 years, across Windows and Linux servers and networking, and I previously worked at CISA in fraud detection. These days I do private IT work in the southwest Virginia area, and most of what I build here comes out of looking after my own machines. I also used to run Minecraft servers, which is where the bot below came from.
 
 ## Projects
 
