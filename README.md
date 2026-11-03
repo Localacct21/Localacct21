@@ -1,36 +1,41 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Local Acct: 25+ years in IT, now doing private IT work in southwest Virginia" width="100%">
+  <img src="assets/hero.svg" alt="Local Acct: 25+ years in IT, private IT work in southwest Virginia, ex-CISA fraud detection" width="100%">
 </p>
 
-Hi, I'm Local Acct. I've worked in IT for over 25 years, across Windows and Linux servers and networking, and I previously worked at CISA in fraud detection. These days I do private IT work in the southwest Virginia area, and most of what I build here comes out of looking after my own machines. I also used to run Minecraft servers, which is where the bot below came from.
+<p align="center">
+  <img src="https://img.shields.io/badge/25%2B_YEARS-IN_IT-00f0ff?style=for-the-badge&labelColor=070a14" alt="25+ years in IT">
+  <img src="https://img.shields.io/badge/PRIVATE_IT-SW_VIRGINIA-ff2bd6?style=for-the-badge&labelColor=070a14" alt="Private IT work in southwest Virginia">
+  <img src="https://img.shields.io/badge/EX--CISA-FRAUD_DETECTION-39ff88?style=for-the-badge&labelColor=070a14" alt="Ex-CISA, fraud detection">
+</p>
 
-## Projects
+Hi, I'm **Local Acct**. I've worked in IT for over 25 years, across Windows and Linux servers and networking, and I previously worked at CISA in fraud detection. These days I do private IT work in the southwest Virginia area, and most of what I build here comes out of looking after my own machines. I also used to run Minecraft servers, which is where the bot below came from.
 
-### [board-console](https://github.com/Localacct21/board-console)
+<img src="assets/divider.svg" alt="" width="100%">
 
-A self-hosted web admin panel for single-board computers. It runs on your PC and manages each board over SSH, so nothing gets installed on the boards. I built it for a Raspberry Pi and a Radxa Rock 5B, and it works with other Debian-style boards that use systemd.
+## ⚡ Projects
 
-Live metrics, browser terminals, systemd services, Docker, logs, files, package updates and power control.
+<a href="https://github.com/Localacct21/board-console"><img src="assets/card-board-console.svg" alt="board-console: self-hosted web admin panel for Raspberry Pi, Rock 5B and other Linux boards over SSH" width="100%"></a>
 
-`JavaScript` `Node.js` `SSH` · MIT
+Live metrics, browser terminals, services, Docker, logs, files, updates and power control. Built for a Raspberry Pi and a Radxa Rock 5B. **[View board-console →](https://github.com/Localacct21/board-console)**
 
-### [iron-anarchy-minecraft-bot](https://github.com/Localacct21/iron-anarchy-minecraft-bot)
+<a href="https://github.com/Localacct21/iron-anarchy-minecraft-bot"><img src="assets/card-bot.svg" alt="iron-anarchy-minecraft-bot: Mineflayer bot with pathfinding, PvP and Discord integration" width="100%"></a>
 
-A Minecraft bot for the Iron-Anarchy server, built on Mineflayer. It handles pathfinding, PvP, auto-eating, armor and block collection, with a Discord integration and a web inventory view.
+Includes a Discord integration and a web inventory view. **[View the bot →](https://github.com/Localacct21/iron-anarchy-minecraft-bot)** [![npm](https://img.shields.io/npm/v/%40localacct%2Firon-anarchy-minecraft-bot?label=npm&color=ff2bd6&labelColor=070a14)](https://www.npmjs.com/package/@localacct/iron-anarchy-minecraft-bot)
 
-[![npm](https://img.shields.io/npm/v/%40localacct%2Firon-anarchy-minecraft-bot?label=npm)](https://www.npmjs.com/package/@localacct/iron-anarchy-minecraft-bot)
+<a href="https://github.com/Localacct21/Simple-Global-Minecraft-Scanner"><img src="assets/card-scanner.svg" alt="Simple-Global-Minecraft-Scanner: shell script that uses Masscan to find Minecraft servers on public IPv4" width="100%"></a>
 
-`JavaScript` `Node.js` `Mineflayer` `discord.js` · MIT
+The rate, port and output file are configurable. **[View the scanner →](https://github.com/Localacct21/Simple-Global-Minecraft-Scanner)**
 
-### [Simple-Global-Minecraft-Scanner](https://github.com/Localacct21/Simple-Global-Minecraft-Scanner)
+## 🧰 Tools I use
 
-A small shell script that uses Masscan to look for Minecraft servers across public IPv4, with optional Nmap and Netcat checks afterwards. The rate, port and output file are configurable.
+<p align="center">
+  <img src="assets/skills.svg" alt="Windows, Linux, Bash, Docker, Node.js, JavaScript, Raspberry Pi, discord.js" width="90%">
+</p>
 
-`Bash` `Masscan` · MIT
+## 📡 Also on my radar
 
-## Also on my radar
-
-Forks I keep around, mostly software-defined radio:
+<details>
+<summary><b>Forks I keep around, mostly software-defined radio</b></summary>
 
 - [HackRF-Treasure-Chest-Repo](https://github.com/Localacct21/HackRF-Treasure-Chest-Repo): HackRF software and captures
 - [antsdr-fw](https://github.com/Localacct21/antsdr-fw): ANTSDR firmware
@@ -38,6 +43,12 @@ Forks I keep around, mostly software-defined radio:
 - [firmware-open](https://github.com/Localacct21/firmware-open): System76 open firmware
 - [AnarchyExploitFixes](https://github.com/Localacct21/AnarchyExploitFixes): exploit fixes for anarchy Minecraft servers
 
-## Get in touch
+</details>
+
+## 💬 Get in touch
 
 Open an issue on any of the repos above.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Localacct21&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</p>
